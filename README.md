@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 I'm an Italian tech enthusiast with a Bachelor's degree in **Economics** from the University of Bologna and a Master's degree in **Data Science** from Copenhagen Business School.  
-I currently live in **Copenhagen, Denmark**, where I work full-time as an **IT Consultant**.
+I currently live in **Copenhagen, Denmark**, where I work as an **IT Consultant**.
 
 ---
 
